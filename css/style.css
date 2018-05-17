@@ -1239,8 +1239,8 @@
 		background-attachment: scroll,						fixed;
 		background-color: #303339;
 		background-image: url("images/pexels-photo-320335.jpeg");
-		background-position: top left,					center center;
-		background-repeat: repeat,						no-repeat;
+		background-position: top left, center center;
+		background-repeat: no-repeat;
 		background-size:100%;
 		color: #9b9c9e;
 		padding: 16em 0;
