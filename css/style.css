@@ -1236,9 +1236,9 @@
 /* Banner */
 
 	#banner {
-		background-attachment: scroll,						fixed;
+		background-attachment: scroll,fixed;
 		background-color: #303339;
-		background-image: url("images/pexels-photo-320335.jpeg");
+		background-image: url("images/amplifier-analogue-audio-164907.jpg");
 		background-position: top left, center center;
 		background-repeat: no-repeat;
 		background-size:100%;
@@ -1260,7 +1260,6 @@
 			height: 100%;
 			left: 0;
 			opacity: 0;
-			position: absolute;
 			top: 0;
 			width: 100%;
 			z-index: 1;
