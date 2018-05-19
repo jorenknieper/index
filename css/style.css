@@ -1237,7 +1237,7 @@
 
 	#banner {
 		background-attachment: scroll,fixed;
-		background-color: #303339;
+		background: #f2f2f2;
 		background-image: url("images/amplifier-analogue-audio-164907.jpg");
 		background-position: top left, center center;
 		background-repeat: no-repeat;
